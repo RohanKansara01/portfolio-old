@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2a842c10.css",
-    "main.js": "/react-gh-pages/static/js/main.175eb6f0.js",
-    "static/js/453.ace21015.chunk.js": "/react-gh-pages/static/js/453.ace21015.chunk.js",
-    "static/media/online_auto_part_shop.PNG": "/react-gh-pages/static/media/online_auto_part_shop.cafcaa60cee4231d5216.PNG",
-    "static/media/boat_website.PNG": "/react-gh-pages/static/media/boat_website.5e3ef033bff30a6db9d1.PNG",
-    "static/media/Sugar.png": "/react-gh-pages/static/media/Sugar.0cb8f4a3d38332269f31.png",
-    "static/media/pharmacy.png": "/react-gh-pages/static/media/pharmacy.6bd2a54ecf44424e232d.png",
-    "static/media/Rohan-Kansara-Resume.pdf": "/react-gh-pages/static/media/Rohan-Kansara-Resume.d2adebdc53a1dbac21b0.pdf",
-    "static/media/rohan.jpg": "/react-gh-pages/static/media/rohan.a891eb62d6b08c14bdfc.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.2a842c10.css.map": "/react-gh-pages/static/css/main.2a842c10.css.map",
-    "main.175eb6f0.js.map": "/react-gh-pages/static/js/main.175eb6f0.js.map",
-    "453.ace21015.chunk.js.map": "/react-gh-pages/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/RohanKansara01.github.io/static/css/main.2a842c10.css",
+    "main.js": "/RohanKansara01.github.io/static/js/main.78754d04.js",
+    "static/js/453.ace21015.chunk.js": "/RohanKansara01.github.io/static/js/453.ace21015.chunk.js",
+    "static/media/online_auto_part_shop.PNG": "/RohanKansara01.github.io/static/media/online_auto_part_shop.cafcaa60cee4231d5216.PNG",
+    "static/media/boat_website.PNG": "/RohanKansara01.github.io/static/media/boat_website.5e3ef033bff30a6db9d1.PNG",
+    "static/media/Sugar.png": "/RohanKansara01.github.io/static/media/Sugar.0cb8f4a3d38332269f31.png",
+    "static/media/pharmacy.png": "/RohanKansara01.github.io/static/media/pharmacy.6bd2a54ecf44424e232d.png",
+    "static/media/Rohan-Kansara-Resume.pdf": "/RohanKansara01.github.io/static/media/Rohan-Kansara-Resume.d2adebdc53a1dbac21b0.pdf",
+    "static/media/rohan.jpg": "/RohanKansara01.github.io/static/media/rohan.a891eb62d6b08c14bdfc.jpg",
+    "index.html": "/RohanKansara01.github.io/index.html",
+    "main.2a842c10.css.map": "/RohanKansara01.github.io/static/css/main.2a842c10.css.map",
+    "main.78754d04.js.map": "/RohanKansara01.github.io/static/js/main.78754d04.js.map",
+    "453.ace21015.chunk.js.map": "/RohanKansara01.github.io/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a842c10.css",
-    "static/js/main.175eb6f0.js"
+    "static/js/main.78754d04.js"
   ]
 }
